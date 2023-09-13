@@ -22,7 +22,7 @@
                     height="40"
                 >
             </a>
-            <span>MS Azure</span>
+            <p>MS Azure</p>
         </span>
         <span style="display: flex; flex-direction: column;">
             <a
