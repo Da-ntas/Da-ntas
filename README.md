@@ -8,7 +8,7 @@
 <h3 align="left">Linguagens e ferramentas:</h3>
 <span align="left" style="display: flex; flex-direction: column; align-items: center; gap: 15px; width: 100%">
     <div style="display: flex; gap: 10px;">
-        <span style="display: flex; flex-direction: column;">
+        <span>
             <a
                 href="https://azure.microsoft.com/en-in/"
                 target="_blank"
