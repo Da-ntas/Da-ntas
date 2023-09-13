@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Hugo</h1>
-<h3 align="center">Desenvolvedor JR fullstack, sempre buscando aprender e a ampliar o repertório :)</h3>
+- Desenvolvedor JR fullstack, sempre buscando aprender e a ampliar o repertório :)
 - 🔭 No momento estou desenvolvendo **Site de Filmes (Backend e Frontend)**
 
 - 🌱 Atualmente estudando sobre **Proteção de dados, IA com Python, Typescript + Fastify + Prisma + PostgreSql**
 
 - 📫 Como me contatar **hugodfl2002@gmail.com**
-<h3 align="center">Linguagens e ferramentas:</h3>
+## Linguagens e ferramentas:
 <span align="center">
     <div style="display: flex; flex-direction: column; gap: 10px;">
         <span style="display: flex; flex-direction: column;">
@@ -22,7 +21,6 @@
                     height="40"
                 >
             </a>
-            <p>MS Azure</p>
         </span>
         <span style="display: flex; flex-direction: column;">
             <a
@@ -38,7 +36,6 @@
                     height="40"
                 >
             </a>
-            <p>Bootstrap</p>
         </span>
         <span style="display: flex; flex-direction: column;">
             <a
@@ -54,7 +51,6 @@
                     height="40"
                 >
             </a>
-            <p>C#</p>
         </span>
         <span style="display: flex; flex-direction: column;">
             <a
@@ -70,7 +66,6 @@
                     height="40"
                 >
             </a>
-            <p>CSS</p>
         </span>
         <span style="display: flex; flex-direction: column;">
             <a
@@ -86,7 +81,6 @@
                     height="40"
                 >
             </a>
-            <p>dotNet</p>
         </span>
         <span style="display: flex; flex-direction: column;">
             <a
@@ -102,7 +96,6 @@
                     height="40"
                 >
             </a>
-            <p>Express JS</p>
         </span>
         <span style="display: flex; flex-direction: column;">
             <a
@@ -118,7 +111,6 @@
                     height="40"
                 >
             </a>
-            <p>Figma</p>
         </span>
         <span style="display: flex; flex-direction: column;">
             <a
@@ -134,7 +126,6 @@
                     height="40"
                 >
             </a>
-            <p>GIT</p>
         </span>
     </div>
     <div style="display: flex; gap: 10px">
@@ -152,7 +143,6 @@
                     height="40"
                 >
             </a>
-            <p>HTML5</p>
         </span>
         <span style="display: flex; flex-direction: column;">
             <a
@@ -168,7 +158,6 @@
                     height="40"
                 >
             </a>
-            <p>Java</p>
         </span>
         <span style="display: flex; flex-direction: column;">
             <a
@@ -184,7 +173,6 @@
                     height="40"
                 >
             </a>
-            <p>Javascript</p>
         </span>
         <span style="display: flex; flex-direction: column;">
             <a
@@ -200,7 +188,6 @@
                     height="40"
                 >
             </a>
-            <p>Jest</p>
         </span>
         <span style="display: flex; flex-direction: column;">
             <a
@@ -216,7 +203,6 @@
                     height="40"
                 >
             </a>
-            <p>Mongo DB</p>
         </span>
         <span style="display: flex; flex-direction: column;">
             <a
@@ -232,7 +218,6 @@
                     height="40"
                 >
             </a>
-            <p>Sql Server</p>
         </span>
         <span style="display: flex; flex-direction: column;">
             <a
@@ -248,7 +233,6 @@
                     height="40"
                 >
             </a>
-            <p>Mysql</p>
         </span>
         <span style="display: flex; flex-direction: column;">
             <a
@@ -264,7 +248,6 @@
                     height="40"
                 >
             </a>
-            <p>Nodejs</p>
         </span>
     </div>
     <div style="display: flex; gap: 10px">
@@ -282,7 +265,6 @@
                     height="40"
                 >
             </a>
-            <p>PHP</p>
         </span>
         <span style="display: flex; flex-direction: column;">
             <a
@@ -298,7 +280,6 @@
                     height="40"
                 >
             </a>
-            <p>Postgresql</p>
         </span>
         </span>
         <span style="display: flex; flex-direction: column;">
@@ -315,7 +296,6 @@
                     height="40"
                 >
             </a>
-            <p>Postman</p>
         </span>
         </span>
         <span style="display: flex; flex-direction: column;">
@@ -332,7 +312,6 @@
                     height="40"
                 >
             </a>
-            <p>Python</p>
         </p>
         </span>
         <span style="display: flex; flex-direction: column;">
@@ -349,7 +328,6 @@
                     height="40"
                 >
             </a>
-            <p>React JS</p>
         </span>
         <span style="display: flex; flex-direction: column;">
             <a
@@ -365,7 +343,6 @@
                     height="40"
                 >
             </a>
-            <p>Spring</p>
         </span>
         <span style="display: flex; flex-direction: column;">
             <a
@@ -381,7 +358,6 @@
                     height="40"
                 >
             </a>
-            <p>Sqlite</p>
         </span>
         <span style="display: flex; flex-direction: column;">
             <a
@@ -397,7 +373,6 @@
                     height="40"
                 >
             </a>
-            <p>Typescript</p>
         </span>
     </div>
 </span>
