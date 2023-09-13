@@ -38,7 +38,7 @@
                     height="40"
                 >
             </a>
-            <span>Bootstrap</span>
+            <p>Bootstrap</p>
         </span>
         <span style="display: flex; flex-direction: column;">
             <a
@@ -54,7 +54,7 @@
                     height="40"
                 >
             </a>
-            <span>C#</span>
+            <p>C#</p>
         </span>
         <span style="display: flex; flex-direction: column;">
             <a
@@ -70,7 +70,7 @@
                     height="40"
                 >
             </a>
-            <span>CSS</span>
+            <p>CSS</p>
         </span>
         <span style="display: flex; flex-direction: column;">
             <a
@@ -86,7 +86,7 @@
                     height="40"
                 >
             </a>
-            <span>dotNet</span>
+            <p>dotNet</p>
         </span>
         <span style="display: flex; flex-direction: column;">
             <a
@@ -102,7 +102,7 @@
                     height="40"
                 >
             </a>
-            <span>Express JS</span>
+            <p>Express JS</p>
         </span>
         <span style="display: flex; flex-direction: column;">
             <a
@@ -118,7 +118,7 @@
                     height="40"
                 >
             </a>
-            <span>Figma</span>
+            <p>Figma</p>
         </span>
         <span style="display: flex; flex-direction: column;">
             <a
@@ -134,7 +134,7 @@
                     height="40"
                 >
             </a>
-            <span>GIT</span>
+            <p>GIT</p>
         </span>
     </div>
     <div style="display: flex; gap: 10px">
@@ -152,7 +152,7 @@
                     height="40"
                 >
             </a>
-            <span>HTML5</span>
+            <p>HTML5</p>
         </span>
         <span style="display: flex; flex-direction: column;">
             <a
@@ -168,7 +168,7 @@
                     height="40"
                 >
             </a>
-            <span>Java</span>
+            <p>Java</p>
         </span>
         <span style="display: flex; flex-direction: column;">
             <a
@@ -184,7 +184,7 @@
                     height="40"
                 >
             </a>
-            <span>Javascript</span>
+            <p>Javascript</p>
         </span>
         <span style="display: flex; flex-direction: column;">
             <a
@@ -200,7 +200,7 @@
                     height="40"
                 >
             </a>
-            <span>Jest</span>
+            <p>Jest</p>
         </span>
         <span style="display: flex; flex-direction: column;">
             <a
@@ -216,7 +216,7 @@
                     height="40"
                 >
             </a>
-            <span>Mongo DB</span>
+            <p>Mongo DB</p>
         </span>
         <span style="display: flex; flex-direction: column;">
             <a
@@ -232,7 +232,7 @@
                     height="40"
                 >
             </a>
-            <span>Sql Server</span>
+            <p>Sql Server</p>
         </span>
         <span style="display: flex; flex-direction: column;">
             <a
@@ -248,7 +248,7 @@
                     height="40"
                 >
             </a>
-            <span>Mysql</span>
+            <p>Mysql</p>
         </span>
         <span style="display: flex; flex-direction: column;">
             <a
@@ -264,7 +264,7 @@
                     height="40"
                 >
             </a>
-            <span>Nodejs</span>
+            <p>Nodejs</p>
         </span>
     </div>
     <div style="display: flex; gap: 10px">
@@ -282,7 +282,7 @@
                     height="40"
                 >
             </a>
-            <span>PHP</span>
+            <p>PHP</p>
         </span>
         <span style="display: flex; flex-direction: column;">
             <a
@@ -298,8 +298,8 @@
                     height="40"
                 >
             </a>
-                <span>Postgresql</span>
-            </span>
+            <p>Postgresql</p>
+        </span>
         </span>
         <span style="display: flex; flex-direction: column;">
             <a
@@ -315,8 +315,8 @@
                     height="40"
                 >
             </a>
-                <span>Postman</span>
-            </span>
+            <p>Postman</p>
+        </span>
         </span>
         <span style="display: flex; flex-direction: column;">
             <a
@@ -332,8 +332,8 @@
                     height="40"
                 >
             </a>
-                <span>Python</span>
-            </span>
+            <p>Python</p>
+        </p>
         </span>
         <span style="display: flex; flex-direction: column;">
             <a
@@ -349,7 +349,7 @@
                     height="40"
                 >
             </a>
-            <span>React JS</span>
+            <p>React JS</p>
         </span>
         <span style="display: flex; flex-direction: column;">
             <a
@@ -365,7 +365,7 @@
                     height="40"
                 >
             </a>
-            <span>Spring</span>
+            <p>Spring</p>
         </span>
         <span style="display: flex; flex-direction: column;">
             <a
@@ -381,7 +381,7 @@
                     height="40"
                 >
             </a>
-            <span>Sqlite</span>
+            <p>Sqlite</p>
         </span>
         <span style="display: flex; flex-direction: column;">
             <a
@@ -397,7 +397,7 @@
                     height="40"
                 >
             </a>
-            <span>Typescript</span>
+            <p>Typescript</p>
         </span>
     </div>
 </span>
