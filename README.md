@@ -297,6 +297,7 @@
                     width="40"
                     height="40"
                 >
+            </a>
                 <span>Postgresql</span>
             </span>
         </span>
@@ -313,6 +314,7 @@
                     width="40"
                     height="40"
                 >
+            </a>
                 <span>Postman</span>
             </span>
         </span>
@@ -329,6 +331,7 @@
                     width="40"
                     height="40"
                 >
+            </a>
                 <span>Python</span>
             </span>
         </span>
