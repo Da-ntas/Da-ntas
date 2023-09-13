@@ -5,10 +5,10 @@
 - 🌱 Atualmente estudando sobre **Proteção de dados, IA com Python, Typescript + Fastify + Prisma + PostgreSql**
 
 - 📫 Como me contatar **hugodfl2002@gmail.com**
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Linguagens e ferramentas:</h3>
 <span align="left" style="display: flex; flex-direction: column; align-items: center; gap: 15px; width: 100%">
     <div style="display: flex; gap: 10px; background-color: red;">
-        <div style="display: flex; flex-direction: column;">
+        <span style="display: flex; flex-direction: column;">
             <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer" style="text-decoration: none; color: whitesmoke">
                 <img
                     src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
@@ -18,8 +18,8 @@
                 >
             </a>
             <span>MS Azure</span>
-        </div>
-        <div style="display: flex; flex-direction: column;">
+        </span>
+        <span style="display: flex; flex-direction: column;">
             <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="text-decoration: none; color: whitesmoke">
                 <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -29,8 +29,8 @@
                 >
             </a>
             <span>Bootstrap</span>
-        </div>
-        <div style="display: flex; flex-direction: column;">
+        </span>
+        <span style="display: flex; flex-direction: column;">
         <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" style="text-decoration: none; color: whitesmoke">
             <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
@@ -40,8 +40,8 @@
             >
         </a>
         <span>C#</span>
-        </div>
-        <div style="display: flex; flex-direction: column;">
+        </span>
+        <span style="display: flex; flex-direction: column;">
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="text-decoration: none; color: whitesmoke">
             <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
@@ -51,8 +51,8 @@
             >
         </a>
         <span>CSS</span>
-        </div>
-        <div style="display: flex; flex-direction: column;">
+        </span>
+        <span style="display: flex; flex-direction: column;">
         <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer" style="text-decoration: none; color: whitesmoke">
             <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
@@ -62,8 +62,8 @@
             >
         </a>
         <span>dotNet</span>
-        </div>
-        <div style="display: flex; flex-direction: column;">
+        </span>
+        <span style="display: flex; flex-direction: column;">
         <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="text-decoration: none; color: whitesmoke">
             <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
@@ -73,8 +73,8 @@
             >
         </a>
         <span>Express JS</span>
-        </div>
-        <div style="display: flex; flex-direction: column;">
+        </span>
+        <span style="display: flex; flex-direction: column;">
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="text-decoration: none; color: whitesmoke">
             <img
                 src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
@@ -84,8 +84,8 @@
             >
         </a>
         <span>Figma</span>
-        </div>
-        <div style="display: flex; flex-direction: column;">
+        </span>
+        <span style="display: flex; flex-direction: column;">
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none; color: whitesmoke">
             <img
                 src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -95,7 +95,7 @@
             >
         </a>
         <span>GIT</span>
-        </div>
+        </span>
     </div>
     <div style="display: flex; gap: 10px">
         <div style="display: flex; flex-direction: column;">
