@@ -5,9 +5,9 @@
 - 🌱 Atualmente estudando sobre **Proteção de dados, IA com Python, Typescript + Fastify + Prisma + PostgreSql**
 
 - 📫 Como me contatar **hugodfl2002@gmail.com**
-<h3 align="left">Linguagens e ferramentas:</h3>
-<span style="display: flex; flex-direction: column; align-items: center; gap: 15px; width: 100%">
-    <div style="display: flex; gap: 10px;">
+<h3 align="center">Linguagens e ferramentas:</h3>
+<span align="center">
+    <div style="gap: 10px;">
         <span style="display: flex; flex-direction: column;">
             <a
                 href="https://azure.microsoft.com/en-in/"
