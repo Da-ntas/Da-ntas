@@ -127,8 +127,6 @@
                 >
             </a>
         </span>
-    </div>
-    <div style="display: flex; gap: 10px">
         <span style="display: flex; flex-direction: column;">
             <a
                 href="https://www.w3.org/html/"
@@ -189,6 +187,8 @@
                 >
             </a>
         </span>
+    </div>
+    <div style="display: flex; gap: 10px">
         <span style="display: flex; flex-direction: column;">
             <a
                 href="https://www.mongodb.com/"
@@ -249,8 +249,6 @@
                 >
             </a>
         </span>
-    </div>
-    <div style="display: flex; gap: 10px">
         <span style="display: flex; flex-direction: column;">
             <a
                 href="https://www.php.net"
