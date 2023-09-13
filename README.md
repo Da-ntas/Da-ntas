@@ -7,7 +7,7 @@
 - 📫 Como me contatar **hugodfl2002@gmail.com**
 <h3 align="left">Linguagens e ferramentas:</h3>
 <span align="left" style="display: flex; flex-direction: column; align-items: center; gap: 15px; width: 100%">
-    <div style="display: flex; gap: 10px; background-color: red;">
+    <div style="display: flex; gap: 10px;">
         <span style="display: flex; flex-direction: column;">
             <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer" style="text-decoration: none; color: whitesmoke">
                 <img
@@ -98,7 +98,7 @@
         </span>
     </div>
     <div style="display: flex; gap: 10px">
-        <div style="display: flex; flex-direction: column;">
+        <span style="display: flex; flex-direction: column;">
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="text-decoration: none; color: whitesmoke">
             <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -108,8 +108,8 @@
             >
         </a>
         <span>HTML5</span>
-        </div>
-        <div style="display: flex; flex-direction: column;">
+        </span>
+        <span style="display: flex; flex-direction: column;">
         <a href="https://www.java.com" target="_blank" rel="noreferrer" style="text-decoration: none; color: whitesmoke">
             <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
@@ -119,8 +119,8 @@
             >
         </a>
         <span>Java</span>
-        </div>
-        <div style="display: flex; flex-direction: column;">
+        </span>
+        <span style="display: flex; flex-direction: column;">
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration: none; color: whitesmoke">
             <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
@@ -130,8 +130,8 @@
             >
         </a>
         <span>Javascript</span>
-        </div>
-        <div style="display: flex; flex-direction: column;">
+        </span>
+        <span style="display: flex; flex-direction: column;">
         <a href="https://jestjs.io" target="_blank" rel="noreferrer" style="text-decoration: none; color: whitesmoke">
             <img
                 src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
@@ -141,8 +141,8 @@
             >
         </a>
         <span>Jest</span>
-        </div>
-        <div style="display: flex; flex-direction: column;">
+        </span>
+        <span style="display: flex; flex-direction: column;">
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="text-decoration: none; color: whitesmoke">
             <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
@@ -152,8 +152,8 @@
             >
         </a>
         <span>Mongo DB</span>
-        </div>
-        <div style="display: flex; flex-direction: column;">
+        </span>
+        <span style="display: flex; flex-direction: column;">
         <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" style="text-decoration: none; color: whitesmoke">
             <img
                 src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
@@ -163,8 +163,8 @@
             >
         </a>
         <span>Sql Server</span>
-        </div>
-        <div style="display: flex; flex-direction: column;">
+        </span>
+        <span style="display: flex; flex-direction: column;">
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="text-decoration: none; color: whitesmoke">
             <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
@@ -174,8 +174,8 @@
             >
         </a>
         <span>Mysql</span>
-        </div>
-        <div style="display: flex; flex-direction: column;">
+        </span>
+        <span style="display: flex; flex-direction: column;">
         <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="text-decoration: none; color: whitesmoke">
             <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -185,10 +185,10 @@
             >
         </a>
         <span>Nodejs</span>
-        </div>
+        </span>
     </div>
     <div style="display: flex; gap: 10px">
-        <div style="display: flex; flex-direction: column;">
+        <span style="display: flex; flex-direction: column;">
         <a href="https://www.php.net" target="_blank" rel="noreferrer" style="text-decoration: none; color: whitesmoke">
             <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
@@ -198,8 +198,8 @@
             >
         </a>
         <span>PHP</span>
-        </div>
-        <div style="display: flex; flex-direction: column;">
+        </span>
+        <span style="display: flex; flex-direction: column;">
         <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style="text-decoration: none; color: whitesmoke">
             <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
@@ -208,9 +208,9 @@
                 height="40"
             >
             <span>Postgresql</span>
-            </div>
-    </div>
-        <div style="display: flex; flex-direction: column;">
+            </span>
+    </span>
+        <span style="display: flex; flex-direction: column;">
         <a href="https://postman.com" target="_blank" rel="noreferrer" style="text-decoration: none; color: whitesmoke">
             <img
                 src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
@@ -219,9 +219,9 @@
                 height="40"
             >
             <span>Postman</span>
-            </div>
-    </div>
-        <div style="display: flex; flex-direction: column;">
+            </span>
+    </span>
+        <span style="display: flex; flex-direction: column;">
         <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none; color: whitesmoke">
             <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
@@ -230,9 +230,9 @@
                 height="40"
             >
             <span>Python</span>
-            </div>
-    </div>
-        <div style="display: flex; flex-direction: column;">
+            </span>
+    </span>
+        <span style="display: flex; flex-direction: column;">
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="text-decoration: none; color: whitesmoke">
             <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -242,8 +242,8 @@
             >
         </a>
         <span>React JS</span>
-        </div>
-        <div style="display: flex; flex-direction: column;">
+        </span>
+        <span style="display: flex; flex-direction: column;">
         <a href="https://spring.io/" target="_blank" rel="noreferrer" style="text-decoration: none; color: whitesmoke">
             <img
                 src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
@@ -253,8 +253,8 @@
             >
         </a>
         <span>Spring</span>
-        </div>
-        <div style="display: flex; flex-direction: column;">
+        </span>
+        <span style="display: flex; flex-direction: column;">
         <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer" style="text-decoration: none; color: whitesmoke">
             <img
                 src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
@@ -264,8 +264,8 @@
             >
         </a>
         <span>Sqlite</span>
-        </div>
-        <div style="display: flex; flex-direction: column;">
+        </span>
+        <span style="display: flex; flex-direction: column;">
         <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="text-decoration: none; color: whitesmoke">
             <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
@@ -275,7 +275,7 @@
             >
         </a>
         <span>Typescript</span>
-        </div>
+        </span>
     </div>
 </span>
 <p>
