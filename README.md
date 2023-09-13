@@ -7,7 +7,7 @@
 - 📫 Como me contatar **hugodfl2002@gmail.com**
 <h3 align="center">Linguagens e ferramentas:</h3>
 <span align="center">
-    <div style="gap: 10px;">
+    <div style="display: flex; flex-direction: column; gap: 10px;">
         <span style="display: flex; flex-direction: column;">
             <a
                 href="https://azure.microsoft.com/en-in/"
