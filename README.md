@@ -5,7 +5,7 @@
 
 - 📫 Como me contatar **hugodfl2002@gmail.com**
 ## Linguagens e ferramentas:
-<span align="center">
+<span align="left">
     <div style="display: flex; flex-direction: column; gap: 10px;">
         <span style="display: flex; flex-direction: column;">
             <a
@@ -312,7 +312,6 @@
                     height="40"
                 >
             </a>
-        </p>
         </span>
         <span style="display: flex; flex-direction: column;">
             <a
