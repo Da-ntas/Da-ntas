@@ -7,7 +7,7 @@
 - 📫 Como me contatar **hugodfl2002@gmail.com**
 <h3 align="left">Languages and Tools:</h3>
 <span align="left" style="display: flex; flex-direction: column; align-items: center; gap: 15px; width: 100%">
-    <div style="display: flex; gap: 10px">
+    <div style="display: flex; gap: 10px; background-color: red;">
         <div style="display: flex; flex-direction: column;">
             <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer" style="text-decoration: none; color: whitesmoke">
                 <img
