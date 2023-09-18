@@ -1,5 +1,5 @@
 - Desenvolvedor JR fullstack, sempre buscando aprender e a ampliar o repertório :)
-- 🔭 No momento estou desenvolvendo **Site de Filmes (Backend e Frontend)**
+- 🔭 No momento estudando sobre **Inteligência Artificial** na faculdade
 
 - 🌱 Atualmente estudando sobre **Proteção de dados, IA com Python, Typescript + Fastify + Prisma + PostgreSql**
 
